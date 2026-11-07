@@ -1,8 +1,8 @@
 ### Hey, I'm Ethan :)
 
-I'm a student in Portugal, and I build fast, good-looking apps for Windows. Native Rust, drawn on the GPU, no Electron, and nothing that phones home.
+I'm a student in Portugal, and I build fast, good-looking apps for Windows. Native Rust, drawn on the GPU, no Electron, and zero telemetry. Well, other than the updater.
 
-Right now that's a small suite named after Norse mythology. Every app is free and open source, and every one shares the same glass look.
+Right now that's a small suite named after Norse mythology. Every app is free and open source! I hope everyone enjoys them.
 
 <table>
 <tr>
