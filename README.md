@@ -33,4 +33,4 @@ Also around here: **[vizics](https://github.com/Kryzern/vizics)**, a Spotify mus
 
 Thank you to everyone who's tried Heimdall, filed issues and left kind words, it means a lot. If something breaks or you have an idea, open an issue, I read all of them :)
 
-[Portfolio](https://kryzern.github.io) · [X](https://x.com/ethanddsouza)
+[X](https://x.com/ethanddsouza)
